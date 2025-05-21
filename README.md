@@ -2,8 +2,6 @@
 
 A React TypeScript demo application showcasing modern state management with Zustand, Immer, and other best practices.
 
-![Zustand Demo Screenshot](https://via.placeholder.com/800x400?text=Zustand+Demo+App)
-
 ## 🚀 Features
 
 - **Global State Management** using Zustand with sliced stores
@@ -134,9 +132,3 @@ MIT
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-
-## 📬 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
-
-Project Link: [https://github.com/yourusername/ZustandDemo](https://github.com/yourusername/ZustandDemo)
